@@ -40,14 +40,14 @@ const translations: Record<Language, Record<string, string>> = {
     "services.driver.desc": "À votre disposition pour la durée de votre choix",
 
     // Vehicle
-    "vehicle.title": "Notre Voiture – Toyota SR5 2025",
+    "vehicle.title": "Notre Voiture – Toyota SR5 2024",
     "vehicle.subtitle": "Voyagez dans le luxe et le confort absolu",
     "vehicle.passengers": "6 Passagers",
     "vehicle.ac": "Climatisation",
     "vehicle.leather": "Sièges en Cuir",
     "vehicle.wifi": "Wi-Fi à Bord",
     "vehicle.luggage": "Grand Coffre",
-    "vehicle.modern": "Modèle 2025",
+    "vehicle.modern": "Toyota Modèle 2024",
 
     // Video
     "video.title": "Découvrez Nos Services en Vidéo",
@@ -107,14 +107,14 @@ const translations: Record<Language, Record<string, string>> = {
     "services.driver.desc": "At your disposal for your chosen duration",
 
     // Vehicle
-    "vehicle.title": "Our Vehicle – Toyota SR5 2025",
+    "vehicle.title": "Our Vehicle – Toyota SR5 2024",
     "vehicle.subtitle": "Travel in absolute luxury and comfort",
     "vehicle.passengers": "6 Passengers",
     "vehicle.ac": "Air Conditioning",
     "vehicle.leather": "Leather Seats",
     "vehicle.wifi": "Wi-Fi Onboard",
     "vehicle.luggage": "Large Trunk",
-    "vehicle.modern": "2025 Model",
+    "vehicle.modern": "2024 Model",
 
     // Video
     "video.title": "Discover Our Services on Video",
@@ -173,14 +173,14 @@ const translations: Record<Language, Record<string, string>> = {
     "services.driver.desc": "تحت تصرفكم للمدة التي تختارونها",
 
     // Vehicle
-    "vehicle.title": "سيارتنا – تويوتا SR5 2025",
+    "vehicle.title": "سيارتنا – تويوتا SR5 2024",
     "vehicle.subtitle": "سافر في رفاهية وراحة مطلقة",
     "vehicle.passengers": "5 ركاب",
     "vehicle.ac": "تكييف هواء",
     "vehicle.leather": "مقاعد جلدية",
     "vehicle.wifi": "واي فاي",
     "vehicle.luggage": "صندوق كبير",
-    "vehicle.modern": "موديل 2025",
+    "vehicle.modern": "موديل 2024",
 
     // Video
     "video.title": "اكتشف خدماتنا بالفيديو",

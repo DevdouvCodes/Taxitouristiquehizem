@@ -25,10 +25,10 @@ const features = [
 ];
 
 const vehicleImages = [
-  { src: toyotaImage, alt: "Toyota SR5 2025" },
-  { src: toyotaBeach, alt: "Toyota SR5 2025 - Vue plage" },
-  { src: toyotaInterior, alt: "Toyota SR5 2025 - Intérieur" },
-  { src: toyotaTrunk, alt: "Toyota SR5 2025 - Coffre" },
+  { src: toyotaImage, alt: "Toyota SR5 2024" },
+  { src: toyotaBeach, alt: "Toyota SR5 2024 - Vue plage" },
+  { src: toyotaInterior, alt: "Toyota SR5 2024 - Intérieur" },
+  { src: toyotaTrunk, alt: "Toyota SR5 2024 - Coffre" },
   { src: toyotaMonument, alt: "Toyota SR5 2025 - Monuments" },
   { src: ribat, alt: "Ribat de Monastir" },
 ];
